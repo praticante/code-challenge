@@ -10,13 +10,11 @@ Apri una nuova `tab` nella finestra del `browser`
 
 ![](/assets/open-new-tab.png)
 
-Copia l'indirizzo seguente e visitalo nella nuova `tab`
+Copia il seguente `url` e visitalo nella nuova `tab`
 
 ```
-https://coderbyte.com/solution/First%20Reverse
+https://coderbyte.com/editor/First%20Reverse:JavaScript
 ```
-
-
 
 ## Passo 2
 

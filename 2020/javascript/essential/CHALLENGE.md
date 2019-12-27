@@ -4,6 +4,10 @@
 ![](https://img.shields.io/badge/Difficoltà-media-red)
 ![](https://img.shields.io/badge/Tempo-1_ora-orange)
 
+## Requisiti di base
+
+
+
 ## Passo 1
 
 Apri una nuova `tab` nella finestra del `browser`
@@ -17,6 +21,12 @@ Copia il seguente `url` e visitalo nella nuova `tab`
     Code Challenge
 </a>
 ```
+
+Risolvi l'esercizio tenendo presente che saranno valutati i seguenti punti:
+1. Leggibilità del codice, indentazione e nomi delle varibili.
+2. 
+
+
 
 ## Passo 2
 

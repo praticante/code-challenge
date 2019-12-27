@@ -6,9 +6,10 @@
 
 ## Passo 1
 
-Apri una nuova `tab`
+Apri una nuova `tab` nella finestra del `browser`
 
-![](/assets/img/open-new-tab.png)
+![](/assets/open-new-tab.png)
+
 
 
 ## Passo 2

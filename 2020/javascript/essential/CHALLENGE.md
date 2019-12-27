@@ -12,8 +12,8 @@ Apri una nuova `tab` nella finestra del `browser`
 
 Copia il seguente `url` e visitalo nella nuova `tab`
 
-```
-https://coderbyte.com/editor/First%20Reverse:JavaScript
+```html
+<a href="https://coderbyte.com/editor/First%20Reverse:JavaScript" target="_blank">Code Challenge</a>
 ```
 
 ## Passo 2

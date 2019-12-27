@@ -6,7 +6,9 @@
 
 ## Passo 1
 
+Apri una nuova `tab`
 
+![](/assets/img/open-new-tab.png)
 
 
 ## Passo 2
